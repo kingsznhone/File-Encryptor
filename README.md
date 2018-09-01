@@ -1,2 +1,2 @@
 # File-Encryptor
-Encrypt all files in process folder with AES
+Encrypt all files in enviroment folder with AES
